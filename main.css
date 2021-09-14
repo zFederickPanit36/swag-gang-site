@@ -1,16 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 body{
     background-color: #333333;
 }
 
 .titolo{
     text-align: center;
+    background-color: #833fbb;
     color: #e2e2e2;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding: 1%;
 }
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333;
+    background-color: #424242;
+    font-family: Arial, Helvetica, sans-serif;
     overflow: hidden;
     z-index: 1000;
 }
@@ -33,6 +43,6 @@ body{
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #9262b9;
+    color: #dddddd;
 }
