@@ -2,4 +2,4 @@
 Sito Web | SWAG GANG
 
 - currently in development
-> https://zfederickpanit36.github.io/swag-gang-site/
+> [zfederickpanit36.github.io](https://zfederickpanit36.github.io/swag-gang-site/)
