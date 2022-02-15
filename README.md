@@ -3,3 +3,6 @@ Web site | SWAG GANG
 
 - currently in development
 > https://zfederickpanit36.github.io/swag-gang-site
+
+## 
+> created by Federico Panarotto
